@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/sx1/Sx1xm1/app/src/main/res/drawable/bnv_item_selector.xml" value="0.173" />
+        <entry key="..\:/sx1/Sx1xm1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/sx1/Sx1xm1/app/src/main/res/layout/activity_start.xml" value="0.3651041666666667" />
+        <entry key="..\:/sx1/Sx1xm1/app/src/main/res/layout/l.xml" value="0.3640625" />
+        <entry key="..\:/sx1/Sx1xm1/app/src/main/res/layout/logo.xml" value="0.25" />
+        <entry key="..\:/sx1/Sx1xm1/app/src/main/res/menu/menu.xml" value="0.18645833333333334" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/drawable/home_subscibebtn_bg.xml" value="0.173" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/drawable/home_txt_bg.xml" value="0.173" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/drawable/ic_msg2.xml" value="0.173" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/drawable/shape_search.xml" value="0.173" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/drawable/xiguatitlebar_bg.xml" value="0.173" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/activity_home.xml" value="0.3651041666666667" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/activity_home_video_details.xml" value="0.18645833333333334" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/fragment_comment.xml" value="0.18489583333333334" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/fragment_details.xml" value="0.25" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/fragment_type.xml" value="0.33" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/item_pinglun.xml" value="0.3703125" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/item_simple_info.xml" value="0.33" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/item_tuij.xml" value="0.33" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/item_type.xml" value="0.2" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/socialize_share_menu_item.xml" value="0.3651041666666667" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/umeng_socialize_oauth_dialog.xml" value="0.18645833333333334" />
+        <entry key="..\:/sx1/Sx1xm1/home/src/main/res/layout/umeng_socialize_share.xml" value="0.18645833333333334" />
+        <entry key="..\:/sx1/Sx1xm1/repofitutils/src/main/res/drawable/bnv_item_selector.xml" value="0.173" />
+        <entry key="..\:/sx1/Sx1xm1/repofitutils/src/main/res/drawable/umeng_socialize_btn_bg.xml" value="0.173" />
+        <entry key="..\:/sx1/Sx1xm1/repofitutils/src/main/res/layout/socialize_share_menu_item.xml" value="0.18229166666666666" />
+        <entry key="..\:/sx1/Sx1xm1/repofitutils/src/main/res/layout/umeng_socialize_share.xml" value="0.18229166666666666" />
+        <entry key="..\:/sx1/Sx1xm1/user/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/sx1/Sx1xm1/user/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/sx1/Sx1xm1/user/src/main/res/layout/fragment_my.xml" value="0.3651041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

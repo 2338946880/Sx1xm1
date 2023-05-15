@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SearchActivity">
+
+    <EditText
+        android:id="@+id/search"
+        android:layout_margin="20dp"
+        android:background="@drawable/sheap_seartch"
+        android:hint="请输入内容"
+
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="300dp"
+        app:layout_constraintLeft_toRightOf="@id/sear_iv"
+        android:layout_height="@dimen/dp_40"/>
+    <ImageView
+        android:id="@+id/sear_iv"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="30dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="30dp"
+        android:layout_height="30dp"/>
+    <TextView
+        android:textColor="@color/black"
+        android:text="历史记录"
+        android:layout_margin="20dp"
+        android:id="@+id/tv_ls"
+        app:layout_constraintTop_toBottomOf="@id/search"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_ls"
+        android:layout_margin="20dp"
+        app:layout_constraintTop_toBottomOf="@id/tv_ls"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"/>
+    <TextView
+        android:textColor="@color/black"
+        android:text="热门推荐"
+        android:layout_margin="20dp"
+        android:id="@+id/tv_tj"
+        app:layout_constraintTop_toBottomOf="@id/rv_ls"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_margin="20dp"
+        android:text="删除"
+        android:id="@+id/tv_sc"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/rv_ls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_tj"
+        android:layout_margin="20dp"
+        app:layout_constraintTop_toBottomOf="@id/tv_tj"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+        
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

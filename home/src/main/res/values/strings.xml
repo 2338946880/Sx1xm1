@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_simple_videoinfo_publishtime">%1$s前</string>
+</resources>

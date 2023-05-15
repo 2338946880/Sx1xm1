@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_home" android:title="首页" android:icon="@drawable/home"/>
+    <item android:id="@+id/item_video" android:title="放映厅" android:icon="@drawable/video"/>
+    <item android:id="@+id/item_release" android:title="" android:icon="@drawable/release" />
+    <item android:id="@+id/item_sinatv" android:title="直播" android:icon="@drawable/sinatv"/>
+    <item android:id="@+id/item_my" android:title="我的" android:icon="@drawable/my"/>
+</menu>
