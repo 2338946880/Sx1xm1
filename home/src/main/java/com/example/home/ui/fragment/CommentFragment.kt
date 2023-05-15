@@ -64,6 +64,7 @@ class CommentFragment : Fragment() {
         pingLunAdapter!!.notifyDataSetChanged()
         binding.tvMessage.adapter = pingLunAdapter
         binding.tvMessage.layoutManager = LinearLayoutManager(context)
+        Log.d(TAG, "initMesage: 评论")
     }
 
 }
