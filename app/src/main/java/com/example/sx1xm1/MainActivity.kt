@@ -61,6 +61,7 @@ class MainActivity : AppCompatActivity() {
                 return true
             }
         })
+        val a=1
         binding.vp.addOnPageChangeListener(object :ViewPager.OnPageChangeListener{
             override fun onPageScrolled(
                 position: Int,
