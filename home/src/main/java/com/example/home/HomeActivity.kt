@@ -14,5 +14,6 @@ class HomeActivity : AppCompatActivity() {
         setContentView(binding.root)
         supportFragmentManager.beginTransaction().replace(R.id.home_act, HomeFragment()).commit()
         PlatformConfig.setWeixin("wxdc1e388c3822c80b","3baf1193c85774b3fd9d18447d76cab0");
+        var zs = 2
     }
 }
